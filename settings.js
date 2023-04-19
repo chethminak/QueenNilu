@@ -7,12 +7,12 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94722770762'] //ur owner number
+global.ownername = "𝐂𝐡𝐞𝐭𝐡𝐦𝐢𝐧𝐚 𝐊𝐚𝐯𝐢𝐬𝐡𝐚𝐧" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = '𝘾𝙆 𝙉𝙊𝙑𝘼 𝘽𝙤𝙩' //ur bot name
+global.wm = "𝘾𝙆 𝙉𝙊𝙑𝘼 𝘽𝙤𝙩" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
@@ -45,7 +45,7 @@ global.INBOX_BLOCK_MSG = 'blockedd'
 global.ANTI_BADWORD = 'true'
 
 
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ℂ𝕂 ℕ𝕆𝕍𝔸 𝔹𝕠𝕥 ²⁰²³'
 
 // Menu imoji 
 global.MENU_IMOJI = '💃|🧸'
